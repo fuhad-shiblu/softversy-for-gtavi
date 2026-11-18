@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://softversy-for-gtavi.vercel.app/sitemap.xml
